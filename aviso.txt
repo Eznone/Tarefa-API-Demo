@@ -1,0 +1,5 @@
+A gente conversou que como eu tinha usado npm estava de boa para eu rodar ele no meu computador e mandar a pasta json server sem o node_modules
+
+Para ativar o server (usando shell):
+- cd jsonServer
+- yarn serve-json  (teria que baixar yarn)
